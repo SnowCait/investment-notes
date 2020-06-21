@@ -11,7 +11,7 @@
 - [今こそ個別株投資！テンバガー(10倍株)の見つけ方を5億り人が伝授！【所得向上委員会】 - YouTube](https://www.youtube.com/watch?v=kOYUFPSkD1A)
   - 売上＜利益率
   - 時価総額が小さい（30～50億円）
-  - 配当を出している
+  - 配当を出している（ 1% くらい）
 
 ### 5G 関連
 - [株式投資 ５G基地局関連銘柄の研究！総務省レポート踏まえた銘柄選定！投資の勉強【草食系投資家LoK】 - YouTube](https://www.youtube.com/watch?v=nEo1wLbsvB8)
