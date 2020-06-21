@@ -7,3 +7,8 @@
 
 ### 出力
 `plot*`
+
+### 関数
+
+#### 引数
+`input(var_name="value")`
