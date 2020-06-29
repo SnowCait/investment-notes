@@ -2,6 +2,8 @@
 
 ## Pine Script
 
+- [Pineスクリプト言語リファレンスマニュアル — TradingView](https://jp.tradingview.com/pine-script-reference/v4/)
+
 ### 入力
 `input`
 
