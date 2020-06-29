@@ -1,11 +1,11 @@
 [User Manual](/TradingView/PineScript.md) > [Essential features](/TradingView/PineScript/EssentialFeatures.md) > Strategies
 
-# Strategies
+# [Strategies](https://www.tradingview.com/pine-script-docs/en/v4/essential/Strategies.html) ストラテジー
 
-- A simple strategy example
-- Applying a strategy to a chart
-- Backtesting and forwardtesting
-- Broker emulator
+- A simple strategy example シンプルなストラテジー例
+- Applying a strategy to a chart チャートにストラテジーを適用する
+- Backtesting and forwardtesting バックテスト＆フォワードテスト
+- Broker emulator ブローカーエミュレーター
 - Order placement commands
 - Closing market position
 - OCA groups
@@ -16,7 +16,7 @@ A strategy is a Pine script that can send, modify and cancel buy/sell orders. St
 
 A strategy written in Pine has many of the same capabilities as a Pine study, a.k.a. indicator. When you write a strategy, it must start with the strategy annotation call (instead of study). Strategies may plot data, but they can also place, modify and cancel orders. They also have access to essential strategy performance information through specific keywords. The same information is available externally in the Strategy Tester tab. Once a strategy is calculated on historical data, you can see hypothetical order fills.
 
-## A simple strategy example
+## A simple strategy example シンプルなストラテジー例
 
 ```
 //@version=4
