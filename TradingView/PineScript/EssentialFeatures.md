@@ -1,0 +1,47 @@
+[User Manual](TradingView/PineScript.md) > Essential features
+
+# Essential features
+
+- Context switching and the security function
+  - Barmerge gaps and lookahead
+  - Understanding lookahead
+  - Requesting data of a lower timeframe
+- Bar states. Built-in variables barstate.*
+- Session and time information
+  - The “time” function and variable
+  - Built-in variables for working with time
+- Extended and regular sessions
+- Non-standard chart types data
+  - heikinashi function
+  - renko function
+  - linebreak function
+  - kagi function
+  - pointfigure function
+- Strategies
+  - A simple strategy example
+  - Applying a strategy to a chart
+  - Backtesting and forwardtesting
+  - Broker emulator
+  - Order placement commands
+  - Closing market position
+  - OCA groups
+  - Risk management
+  - Currency
+- Indicator repainting
+- Drawings
+  - Creating drawings
+  - Calculation of drawings on bar updates
+  - Coordinates
+  - Modifying drawings
+  - Label styles
+  - Line styles
+  - Deleting drawings
+  - Examples of classic indicators
+    - Pivot Points Standard
+    - Pivot Points High/Low
+    - Linear Regression
+    - Zig Zag
+  - Limits
+    - Total number of drawings
+    - Additional securities
+    - max_bars_back of time
