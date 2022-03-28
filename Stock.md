@@ -15,6 +15,7 @@
 - [【有料級】億り人のクラウド(SaaS)銘柄の選別方法を公開【Zeppy井村】サブスク - YouTube](https://www.youtube.com/watch?v=XUbNCcUfdgo)
   - 売上成長率 ＋ 営業利益率 ≧ 40%
   - PSR ＜ SaaS 銘柄中央値7～13倍
+- [自社株買いで株価はどう動く？メリットやデメリット、日本の現状や事例まで詳しく紹介 | THE OWNER](https://the-owner.jp/archives/7387)
 
 ### 5G 関連
 - [株式投資 ５G基地局関連銘柄の研究！総務省レポート踏まえた銘柄選定！投資の勉強【草食系投資家LoK】 - YouTube](https://www.youtube.com/watch?v=nEo1wLbsvB8)
